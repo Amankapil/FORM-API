@@ -71,7 +71,7 @@ function App() {
                     className="form-control"
                     id="exampleInputEmail1"
                     aria-describedby="emailHelp"
-                    placeholder="EmailAdress"
+                    placeholder="EmailAdress*"
                     required
                   />
                   
@@ -86,7 +86,7 @@ function App() {
                     type="password"
                     className="form-control"
                     id="exampleInputPassword1"
-                    placeholder="Password"
+                    placeholder="Password*"
                     required
                   />
                 </div>
@@ -110,7 +110,7 @@ function App() {
                 </div>
               </form>
             </div>
-              <div className="col-sm-4 col-md-4 ">
+              <div className="col-sm-4 col-md-4  mv-2">
 
               <img src={car} className = " image-1" alt="" />
 

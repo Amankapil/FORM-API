@@ -32,10 +32,16 @@ h1{
 @media screen and (max-width: 995px) {
   img{
     display: none;
+    content: none;
+  }
+  .mv-2{
+    display: none;
+    content: none;
+
   }
   .mv-1{
     width: 450px;
-    margin-left: 140px;
+    margin-left: 50px;
   }
   .forget{
     margin-left: 128px;
