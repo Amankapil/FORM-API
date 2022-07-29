@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "internship ke scene",
+  "main": "n",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no "
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "aman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
